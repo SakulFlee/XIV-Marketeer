@@ -10,5 +10,7 @@ Essentially, what it would do is:
 
 Some of the data had to be precompiled in via a CI/CD, which would limit it to daily/hourly runs.
 
+The Jupyter Notebook part of this can be found [here](https://forgejo.sakul-flee.de/SakulFlee/XIV-Marketeer-Jupyter)!
+
 I do not have the time to continue development of this project.
 It should still work, though it may need to be updated for future expansions.
